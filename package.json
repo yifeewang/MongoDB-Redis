@@ -1,0 +1,23 @@
+{
+  "name": "MongoDB-Redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yifeewang/MongoDB-Redis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yifeewang/MongoDB-Redis/issues"
+  },
+  "homepage": "https://github.com/yifeewang/MongoDB-Redis#readme",
+  "devDependencies": {
+    "redis": "^3.0.2"
+  }
+}
